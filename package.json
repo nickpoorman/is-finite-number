@@ -1,0 +1,26 @@
+{
+  "name": "is-finite-number",
+  "version": "1.0.0",
+  "description": "A javascript isNumber that behaves the way you would expect",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickpoorman/is-finite-number.git"
+  },
+  "author": "Nick Poorman",
+  "bugs": {
+    "url": "https://github.com/nickpoorman/is-finite-number/issues"
+  },
+  "homepage": "https://github.com/nickpoorman/is-finite-number",
+  "dependencies": {
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  }
+}
