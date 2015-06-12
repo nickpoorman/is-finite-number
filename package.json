@@ -1,6 +1,6 @@
 {
   "name": "is-finite-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A javascript isNumber that behaves the way you would expect",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,6 @@
   "devDependencies": {
     "mocha": "^2.2.5",
     "should": "^6.0.3"
-  }
+  },
+  "license": "MIT"
 }
