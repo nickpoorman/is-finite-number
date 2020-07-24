@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/nickpoorman/is-finite-number",
   "dependencies": {
-    "lodash": "^3.9.3"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "mocha": "^2.2.5",
